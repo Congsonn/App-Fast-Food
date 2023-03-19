@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyFast Food</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="trang_ch">Trang Chủ</string>
+    <string name="m_n_n_ph_bi_n">Món ăn phổ biến</string>
+    <string name="y_u_thich">Yêu thich</string>
+    <string name="daily_meal" />
+    <string name="y_u_th_ch">Yêu thích</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ro_hang">Rỏ hàng</string>
+    <string name="r_h_ng">Rỏ hàng</string>
+    <string name="gi_h_ng">Giỏ hàng</string>
+    <string name="name">Name</string>
+    <string name="myfastfood_gmail_com">myfastfood@gmail.com</string>
+    <string name="_10_00_23_00">10.00 - 23.00</string>
+    <string name="product_name">Product name</string>
+    <string name="_5_0">5.0</string>
+    <string name="c_c_b_a_n_trong_ng_y">Các bữa ăn trong ngày</string>
+</resources>
